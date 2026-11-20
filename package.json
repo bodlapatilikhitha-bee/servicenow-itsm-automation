@@ -1,0 +1,9 @@
+{
+  "name": "servicenow-itsm-automation",
+  "version": "1.0.0",
+  "description": "Clean-room ServiceNow ITSM Script Include, Business Rule and Client Script examples with unit tests",
+  "private": true,
+  "license": "MIT",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=18" }
+}
